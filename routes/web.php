@@ -25,6 +25,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/test', function () {
+    return view('test');
+});
+
 Route::get('AboutUs', function () {
     return view('AboutUs');
 });
@@ -43,7 +47,7 @@ Route::post('mitaki', function (Request $req ) {
     $txt2=$req->input('city'); 
     $txt2 = $Arabic->utf8Glyphs($txt2);
     $txt3=strval(rand());
-    $img = Image::make('images/mitak.jpg')
+    $img = Image::make('images/mitak1.jpg')
         ->fit(3508,2480);
     $img->text($txt1,1705,1845,function($font){
         $font->file(base_path('public/fonts/Amiri-Regular.ttf'));

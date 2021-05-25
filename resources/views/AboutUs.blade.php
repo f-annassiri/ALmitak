@@ -122,14 +122,15 @@
                         <p></br>
                         <H6> للتواصل معنا : </H6>
                         </p>
-                        &nbsp<a href="#" class="fa fa-facebook"></a>
-                        &nbsp<a href="#" class="fa fa-twitter"></a>
+                        &nbsp<a href="https://www.facebook.com/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-106341724536917/" class="fa fa-facebook"></a>
+                        &nbsp<a  class="fa fa-whatsapp"> &nbsp;+212 661-521182</a>
+                      <!--  &nbsp<a href="" class="fa fa-twitter"></a>
+                      &nbsp<a href="#" class="fa fa-whatsapp"></a>
                         &nbsp<a href="#" class="fa fa-google"></a>
                         &nbsp<a href="#" class="fa fa-youtube"></a>
                         &nbsp<a href="#" class="fa fa-instagram"></a>
-                        &nbsp<a href="#" class="fa fa-whatsapp"></a>
                         &nbsp<a href="#" class="fa fa-pinterest"></a>
-                        &nbsp <a href="#" class="fa fa-snapchat-ghost"></a>
+                        &nbsp <a href="#" class="fa fa-snapchat-ghost"></a> -->
                     </td>
                     <td>&nbsp<img src="{{asset('images\TALABA.jpg')}}" alt="" border=3 height=400 width=600></img></th>
                 </tr>

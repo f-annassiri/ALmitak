@@ -86,7 +86,7 @@
                         <!--  لوغو المبادرة -->
                         <li class="nav-item">
                             <span><a class="navbar-brand" href="/">
-                                    <img src="{{asset('images\SLOGON.png')}}" width="70" height="40" alt="">&nbsp
+                                    <img src="{{asset('public\images\SLOGON.png')}}" width="70" height="40" alt="">&nbsp
                                 </a></span>
                         </li>
                         <!--  من نحن  -->
@@ -132,7 +132,7 @@
                         &nbsp<a href="#" class="fa fa-pinterest"></a>
                         &nbsp <a href="#" class="fa fa-snapchat-ghost"></a> -->
                     </td>
-                    <td>&nbsp<img src="{{asset('images\TALABA.jpg')}}" alt="" border=3 height=400 width=600></img></th>
+                    <td>&nbsp<img src="{{asset('public\images\TALABA.jpg')}}" alt="" border=3 height=400 width=600></img></th>
                 </tr>
             </table>
         </div>
@@ -143,7 +143,7 @@
 <footer>
     <div class='footer'>
         <div class="ml-4 text-center text-sm text-black-500 sm:text-center sm:ml-0"></br></br>
-            طلاب مغـاربة ضد التطبيـع <img src="{{asset('images\LOGO.png')}}" alt="" height=30 width=35></img> ـ جميع الحقوق محفوظة <b> ـ 2021
+            طلاب مغـاربة ضد التطبيـع <img src="{{asset('public\images\LOGO.png')}}" alt="" height=30 width=35></img> ـ جميع الحقوق محفوظة <b> ـ 2021
                 </br></br>
         </div>
     </div>
